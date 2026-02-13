@@ -48,7 +48,7 @@
   </p>  
     <br><br>
     <p align="center">
-        <img src="README Assets/TLW Screenshot 1"> 
+        <img src="README Assets/TLW Screenshot 1.jpg" width="461" height="460"> 
       <br><br>
     </p>
     <br>
