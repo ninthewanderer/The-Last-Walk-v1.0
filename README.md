@@ -49,10 +49,4 @@
     <br><br>
     <p align="center">
         <img src="README Assets/TLW Screenshot 1.jpg" width="461" height="460"> 
-      <br><br>
     </p>
-    <br>
- 
-  <p align="center"> 
-    ──── .✦ <img src="README Assets/purple_bitsy.png" width="35" height="35"> ✦. ────
-  </p>
