@@ -1,4 +1,3 @@
-
   <h1> 
     <p align="center"> 
       Tʜᴇ Lᴀsᴛ Wᴀʟᴋ
@@ -11,6 +10,10 @@
     <a href="https://ninthewanderer.itch.io/the-last-walk"><img src="https://img.shields.io/badge/itch.io-FF2449?style=for-the-badge&logo=itch.io&logoColor=white"></a>
     <br>
     <i>Click the itch.io badge to navigate to the game page.</i>
+    <br><br>
+    <a href="https://github.com/9th-Wonder-Studios/The-Last-Walk-v2.0"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <br>
+    <i>Click the GitHub badge to navigate to the v2.0 repository.</i>
     <br><br>
   </p>
 
